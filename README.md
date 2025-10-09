@@ -1,1 +1,4 @@
-# DHKL18A1-PNC
+# STT: 34
+# MSV: 24174600005
+# Họ và tên: Nguyễn Đức Minh
+# Lớp: DHKL18A1HN
