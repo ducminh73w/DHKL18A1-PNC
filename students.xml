@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<students>
+    <student id="1">
+        <name>Erling Haaland</name>
+        <year>2006</year>
+        <class>18A1</class>
+        <gender>Nam</gender>
+    </student>
+    <student id="2">
+        <name>Le Quang Liem</name>
+        <year>2006</year>
+        <class>18A1</class>
+        <gender>Nam</gender>
+    </student>
+    <student id="3">
+        <name>Truong Dinh Hoang</name>
+        <year>2003</year>
+        <class>18A6</class>
+        <gender>Nam</gender>
+    </student>
+</students>
